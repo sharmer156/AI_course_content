@@ -1,6 +1,6 @@
 algorithm engineer 
-# 如何“快”、“准”、“狠”成为优秀算法工程师
-https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247485462&idx=1&sn=56c380a2bdb1af42e38d389328a6d412&chksm=f9a27a99ced5f38f7fc05750d894eba04a01de4c85debf6d228437764cbc2beb7e329952fdbd&scene=0#rd
+# [如何“快”、“准”、“狠”成为优秀算法工程师](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247485462&idx=1&sn=56c380a2bdb1af42e38d389328a6d412&chksm=f9a27a99ced5f38f7fc05750d894eba04a01de4c85debf6d228437764cbc2beb7e329952fdbd&scene=0#rd)
+![enter description here](https://www.github.com/sharmer156/xiaoshujiangimg/raw/master/小书匠/1538060975996.png)
 # 第 1 集机器学习简介
 
 1.1 课程介绍
